@@ -1,0 +1,10 @@
+cat nuclei-all-report.txt | grep low]
+cat nuclei-all-report.txt | grep medium]
+cat nuclei-all-report.txt | grep high]
+cat nuclei-all-report.txt | grep critical]
+cat nuclei-all-report.txt | grep xmlrpc
+cat nuclei-all-report.txt | grep credentials-disclosure
+cat nuclei-all-report.txt | grep listing
+cat nuclei-all-report.txt | grep takeover
+cat nuclei-all-report.txt | grep jira
+cat nuclei-all-report.txt | grep exposure
